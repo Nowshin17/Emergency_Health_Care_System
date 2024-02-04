@@ -1,6 +1,6 @@
-# Emergency Health Care system
-Developed a Heath care website based on COVID-19 emergency where user can find
-nearby hospital seats, get emergency oxygen supply and consult with doctors.
+# Emergency HealthCare system
+Developed a healthcare website based on the COVID-19 emergency where users can find
+nearby hospital seats, get an emergency oxygen supply, and consult with doctors.
 
 # Techonology used
 Python<br>
